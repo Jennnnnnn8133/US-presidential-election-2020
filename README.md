@@ -2,7 +2,7 @@ Personal Dataset Project by YuTung Cheng (ID:11678647)
 
 DATA 115 Spring Semester
 
-Due date 4/24/2021
+Date 4/24/2021
 
 # US-presidential-election-2020
 ## Motivation
