@@ -38,7 +38,7 @@ From the plots below, I used Republican Party votes percentage, abbreviated as g
 
 ## Analysis
 
-I trid to use logistic regression to build a descriptive model. The independent variable include marital status, gender composition, age composition, race composition, household composition, educaitional attainment, and 2016 election results. The dependent variable is 2020 election results, and I choose gop vote percentage.
+I tried to use logistic regression to build a descriptive model. The independent variable include marital status, gender composition, age composition, race composition, household composition, educaitional attainment, and 2016 election results. The dependent variable is 2020 election results, and I choose gop vote percentage.
 
 I kicked out several variables to prevent the redundant issue. For example, I only kept male percentage of all population and ruled out female percentage of all population. Additionally, I didn't include change percentage since it may be some data linkage and not be good for describe my data.
 
