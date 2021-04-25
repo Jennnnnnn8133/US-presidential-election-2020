@@ -6,6 +6,7 @@ Date 4/24/2021
 
 # US-presidential-election-2020
 ## Motivation
+I mainly pull out these critical reasons as the variables in the analysis such as the population in different ages, various races in the voters, education levels with different degrees, the marital statuses, the compositions of household between 2016 and 2020 U.S presidential election. After the 2020 U.S presidential election, the whole world has put more and more attention on the voting process and the outcome. The U.S government has a huge impact on the international situation and the Asia-Pacific regions. Additionally, this presidential election has been regarded as the most important election in the history. The U.S presidential election always has been discussed and the focus of international public relations and opinions. If the rotation of political parties has been widely discussing, there will make people to care more about the all components of the various voters during this presidential election.
 
 ## Data Sources
 
@@ -15,7 +16,6 @@ Combined with census data provided by [US Census Bureau](https://www.census.gov/
 
 ## Processing Steps
 There are two main steps. The first step is cleaning data and the second step is joining two sources of data.
-
 I dealt with census data first. Original data contains more than 100 variables at all. So I glimpse at them and hand-pick interesting variables that might have impact on election results. Since variables are recorded as raw value, I turned them into meaningful percentage to smooth the population difference on the state basis.
 
 Then I dealt with election results data. There is a small problem for 2016 data. It doesn't have full state name so I searched for state abbreviation data and filled the full name. Also, I calculate voting percentage of each party. 
