@@ -37,8 +37,7 @@ From the plots below, I used Republican Party votes percentage, abbreviated as g
 ![education - bachlor and gop]
 (https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/main/final/image/plot_bachelor.png)
 
-![age - 85up and gop]
-(https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/main/final/image/plot_pop_85_up.png)
+![age - 85up and gop](https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/1645c4448ad7b2b7cb5d50bfb584c693069d2682/plot_pop_85_up.png)
 
 ## Analysis
 
