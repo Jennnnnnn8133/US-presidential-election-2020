@@ -28,14 +28,11 @@ I mainly used scatter plots to visualize relationships between variables I am in
 
 From the plots below, I used Republican Party votes percentage, abbreviated as gop, as my y against other variables. Also, I used point size and point color to further compare the difference.
 
-![race - black and gop]
-(https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/main/final/image/plot_race_one_black.png)
+![race - black and gop](https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/214d46c2b001d3ecfb2c93216f4e8c608c58dc99/plot_race_one_black.png)
 
-![household - spouse and gop]
-(https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/main/final/image/plot_household_spouse.png)
+![household - spouse and gop](https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/214d46c2b001d3ecfb2c93216f4e8c608c58dc99/plot_household_spouse.png)
 
-![education - bachlor and gop]
-(https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/main/final/image/plot_bachelor.png)
+![education - bachlor and gop](https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/214d46c2b001d3ecfb2c93216f4e8c608c58dc99/plot_bachelor.png)
 
 ![age - 85up and gop](https://github.com/Jennnnnnn8133/US-presidential-election-2020/blob/1645c4448ad7b2b7cb5d50bfb584c693069d2682/plot_pop_85_up.png)
 
